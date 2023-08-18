@@ -1,0 +1,6 @@
+127.0.0.1 - - [03/Feb/2023:21:15:40 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:21:15:42 +0530] "GET /4-CollageSite/ HTTP/1.1" 200 414
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:21:15:48 +0530] "GET /4-CollageSite/register.jsp HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:21:16:45 +0530] "GET /4-CollageSite/register?Id=20&name=Sahil&address=Shiur&uname=sahil&pass=6677&mail=sahil@123 HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:21:17:12 +0530] "GET /4-CollageSite/login.jsp HTTP/1.1" 200 372
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:21:17:41 +0530] "GET /4-CollageSite/login?uname=Dnyaneshwar&pass=mauli@123 HTTP/1.1" 200 3251

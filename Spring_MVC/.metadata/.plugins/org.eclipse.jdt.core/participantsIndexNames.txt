@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2550392789.index
+\1=Spring MVC Example\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\244924035.index
+\SpringMvcFullyJavaBasedExample\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3848715135.index
+\5=SPRINGMVCJavaBaseExampleNew\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\946724635.index
+\5=SpringMvcJavaBaseExample\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4010620653.index
+\3=HomePage\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1188417296.index
+\---MVC---PROJECT--PRACTICE-----\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1297523141.index
+\5=SPRINGMVCJavaBaseExample\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1389706210.index
+\2=Spring MVC Example\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2028686105.index
+\1= Spring MVC Example\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1107100305.index
+\1=Spring MVC Example\src
+C:\Users\admin\Spring_MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1759725869.index
+\4=CollageSite\src

@@ -1,0 +1,8 @@
+127.0.0.1 - - [02/Feb/2023:23:16:17 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [02/Feb/2023:23:16:18 +0530] "GET /4-CollageSite/ HTTP/1.1" 200 414
+0:0:0:0:0:0:0:1 - - [02/Feb/2023:23:18:10 +0530] "GET /4-CollageSite/login.jsp HTTP/1.1" 200 372
+0:0:0:0:0:0:0:1 - - [02/Feb/2023:23:18:54 +0530] "GET /4-CollageSite/login?uname=Dnyaneshwar&pass=mauli@123 HTTP/1.1" 200 2974
+0:0:0:0:0:0:0:1 - - [02/Feb/2023:23:19:20 +0530] "GET /4-CollageSite/update?id=16 HTTP/1.1" 200 629
+0:0:0:0:0:0:0:1 - - [02/Feb/2023:23:20:19 +0530] "GET /4-CollageSite/up?Id=16&name=Suraj&address=rajuri&uname=SSR&pass=8888&mail=suraj@123 HTTP/1.1" 200 2974
+0:0:0:0:0:0:0:1 - - [02/Feb/2023:23:21:32 +0530] "GET /4-CollageSite/login?uname=DSR&pass=+9876+ HTTP/1.1" 500 4086
+0:0:0:0:0:0:0:1 - - [02/Feb/2023:23:21:47 +0530] "GET /4-CollageSite/login?uname=DSR&pass=9876 HTTP/1.1" 200 1019

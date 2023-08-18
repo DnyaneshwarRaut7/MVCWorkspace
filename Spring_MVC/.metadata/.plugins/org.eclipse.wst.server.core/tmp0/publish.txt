@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Tue Jun 20 18:34:11 IST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\Spring_MVC\\1\=\ Spring\ MVC\ Example\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\Spring_MVC\\5\=SPRINGMVCJavaBaseExample\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\Spring_MVC\\---MVC---PROJECT--PRACTICE-----\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\Spring_MVC\\SpringMvcFullyJavaBasedExample\ (1)\\SpringMvcFullyJavaBasedExample\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\Spring_MVC\\5\=SpringMvcJavaBaseExample\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar

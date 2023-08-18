@@ -1,0 +1,12 @@
+127.0.0.1 - - [16/Feb/2023:14:17:36 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:17:38 +0530] "GET /4-CollageSite/ HTTP/1.1" 200 462
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:18:09 +0530] "GET /4-CollageSite/log HTTP/1.1" 200 372
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:18:21 +0530] "GET /4-CollageSite/login?uname=Dnyaneshwar&pass=uu HTTP/1.1" 500 4086
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:18:32 +0530] "GET /4-CollageSite/login?uname=Dnyaneshwar&pass=mauli@123 HTTP/1.1" 200 2687
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:18:48 +0530] "GET /4-CollageSite/update?id=45 HTTP/1.1" 200 628
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:18:57 +0530] "GET /4-CollageSite/up?Id=45&name=vikas&address=beed&uname=vikas123&pass=3434&mail=vikas@123 HTTP/1.1" 200 2690
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:19:10 +0530] "GET /4-CollageSite/remove?id=45 HTTP/1.1" 200 2388
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:19:25 +0530] "GET /4-CollageSite/ HTTP/1.1" 200 462
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:19:30 +0530] "GET /4-CollageSite/register.jsp HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:20:08 +0530] "GET /4-CollageSite/register?Id=77&name=ganesh&address=jamkhed&uname=gani123&pass=8888&mail=gani@123 HTTP/1.1" 200 372
+0:0:0:0:0:0:0:1 - - [16/Feb/2023:14:20:34 +0530] "GET /4-CollageSite/login?uname=Dnyaneshwar&pass=mauli@123 HTTP/1.1" 200 2692
